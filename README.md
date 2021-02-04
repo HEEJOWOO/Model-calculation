@@ -6,4 +6,4 @@
 * FLOPs(FLoating point OPerations)
 * FLOPS(FLoating point OPerations per Second, flop/s)
 * FLOPs : 실제 계산량을 나타내는 단위
-* FLOPS : 얼마나 빨리 계산을 처리할 수 있는지를 나타내는 
+* FLOPS : 얼마나 빨리 계산을 처리할 수 있는지를 나타내는 단위
